@@ -1,4 +1,4 @@
-# 🧠 Cloud Infrastructure Data Science - Explained in Simple Terms
+# 🧠 Cloud Infrastructure Data Science
 
 **Cloud Infrastructure Data Science** is Cloud Infrastructure's **managed platform for data scientists and ML engineers to build, train, deploy, and manage machine learning models in the cloud.**
 
