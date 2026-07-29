@@ -1,4 +1,4 @@
-# 🧠 Cloud Infrastructure Data Science — Explained in Simple Terms
+# 🧠 Cloud Infrastructure Data Science - Explained in Simple Terms
 
 **Cloud Infrastructure Data Science** is Cloud Infrastructure's **managed platform for data scientists and ML engineers to build, train, deploy, and manage machine learning models in the cloud.**
 
@@ -144,7 +144,7 @@ For example:
 
 **Customer → Churn Model → High Risk → CRM → Retention Offer**
 
-So ML isn't just producing predictions—it becomes part of the company's operational workflow.
+So ML isn't just producing predictions-it becomes part of the company's operational workflow.
 
 ---
 
@@ -152,19 +152,19 @@ So ML isn't just producing predictions—it becomes part of the company's operat
 
 The core concepts to remember are:
 
-**📁 Project** — organizes your data science work.
+**📁 Project** - organizes your data science work.
 
-**📓 Notebook Session** — interactive development environment for exploring data and building models.
+**📓 Notebook Session** - interactive development environment for exploring data and building models.
 
-**⚙️ Jobs** — run repeatable ML/data workloads.
+**⚙️ Jobs** - run repeatable ML/data workloads.
 
-**🤖 Models** — trained ML artifacts managed for downstream use.
+**🤖 Models** - trained ML artifacts managed for downstream use.
 
-**🚀 Model Deployments** — host models for inference through endpoints.
+**🚀 Model Deployments** - host models for inference through endpoints.
 
-**🧰 Accelerated Data Science (ADS) SDK** — 's Python SDK that helps with parts of the ML lifecycle and Cloud Infrastructure Data Science workflows.
+**🧰 Accelerated Data Science (ADS) SDK** - 's Python SDK that helps with parts of the ML lifecycle and Cloud Infrastructure Data Science workflows.
 
-**☁️ Cloud Infrastructure Infrastructure** — underlying compute, storage, networking, identity, databases and related cloud services.
+**☁️ Cloud Infrastructure Infrastructure** - underlying compute, storage, networking, identity, databases and related cloud services.
 
 ---
 
@@ -213,7 +213,7 @@ And for GenAI workloads, the architecture can additionally involve:
 
 ### 💡 One-line definition
 
-> **Cloud Infrastructure Data Science is Cloud's managed environment for developing and operationalizing machine-learning models—from experimentation and training to model management and deployment.**
+> **Cloud Infrastructure Data Science is Cloud's managed environment for developing and operationalizing machine-learning models-from experimentation and training to model management and deployment.**
 
 For interview preparation, remember this sequence:
 
