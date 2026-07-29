@@ -8,7 +8,7 @@ Think of **AI Data Platform** as a unified environment where an organization can
 
 Imagine a large company has Data scattered everywhere:
 
-**ERP → CRM → Databases → Data warehouse → documents → APIs → cloud applications**
+**ERP → CRM → Databases → Data warehouse → Documents → APIs → Cloud Applications**
 
 The company wants to use all this information for:
 
@@ -64,7 +64,7 @@ Business users can turn the Data into:
 
 **Dashboards → KPIs → Reports → Trends → Forecasts → Decision support**
 
-'s Analytics portfolio provides the BI/Analytics layer.
+Analytics portfolio provides the BI/Analytics layer.
 
 ⬇️
 
