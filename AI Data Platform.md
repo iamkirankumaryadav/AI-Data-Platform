@@ -1,6 +1,6 @@
 # AI Data Platform
 
-Think of **AI Data Platform** as a unified environment where an organization can bring together its **Data + Analytics + Machine Learning + Generative AI** capabilities to build intelligent applications and make better decisions.
+Think of **AI Data Platform** as a unified environment where an organization can bring together its **Data + Analytics + Machine Learning + Generative AI** capabilities to build intelligent applications / platforms / systems and make better decisions.
 
 ### 🏢 Simple analogy
 
